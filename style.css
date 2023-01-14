@@ -10,7 +10,7 @@ body{
 /* header side or navigation side */
 .header{
     
-    background-image: url(../assets/images/banner/banner2.png);
+    background-image: url(images/banner/banner2.png);
     background-color: #f22f56;
     background-repeat:no-repeat ;
     width:1600px;
@@ -142,7 +142,7 @@ body{
     border-radius: 5px;
     width:1140px;
     height:300px;
-    background-image: url(/assets/images/gradient2.png ),url(/assets/images/watch.png);
+    background-image: url(images/gradient2.png ),url(images/watch.png);
     margin:125px 230px;
     align-items: center;
 
