@@ -142,7 +142,7 @@ body{
     border-radius: 5px;
     width:1140px;
     height:300px;
-    background-image: url(/images/gradient2.png ),url(images/watch.png);
+    background-image: url(images/gradient2.png ),url(images/watch.png);
     margin:125px 230px;
     align-items: center;
 
